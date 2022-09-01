@@ -4,4 +4,4 @@ NPM     : 2106630334
 
 Kelas:  : D
 
-Hobi: Gaming
+Hobi: Nonton
